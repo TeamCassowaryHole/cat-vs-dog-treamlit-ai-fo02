@@ -1,4 +1,4 @@
-# 
+# Elite Cat vs Dog Classifier with PyTorch and Streamlit presets. Featuring model-training and explainable-AI — optimized for maximum performance.
 
 
 
